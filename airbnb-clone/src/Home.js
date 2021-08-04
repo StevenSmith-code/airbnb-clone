@@ -9,15 +9,15 @@ function Home() {
             <Banner />
             <div className="home__section">
                 <Card 
-                src = "https://a0.muscache.com/im/pictures/15159c9c-9cf1-400e-b809-4e13f286fa38.jpg?im_w=720"
+                src = "https://a0.muscache.com/im/pictures/2f13349d-879d-43c6-83e3-8e5679291d53.jpg?im_w=720"
                 title="Online Experiences"
                 description="Unique activities we can do together, led by a world of hosts." />
                 <Card 
-                src = "https://a0.muscache.com/im/pictures/621a8986-ef80-408b-9029-b633ef5d0e2d.jpg?im_w=720"
+                src = "https://a0.muscache.com/im/pictures/10a638e1-6aff-4313-8033-1275cec83987.jpg?im_w=720"
                 title="Unique stays"
                 description = "Spaces that are more than just a place to sleep."/>
                 <Card 
-                src = "https://a0.muscache.com/im/pictures/5c188441-5a82-4c4f-877c-17b0f4188001.jpg?im_w=720"
+                src = "https://a0.muscache.com/im/pictures/36f53e61-db8d-403c-9122-5b761c0e4264.jpg?im_w=720"
                 title="Entire homes"
                 description="Comfortable private places, with room for friends or family."/>
             </div>
