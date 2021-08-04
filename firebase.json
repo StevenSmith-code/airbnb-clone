@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "public",
+    "public": "./airbnb-clone/build",
     "ignore": [
       "firebase.json",
       "**/.*",
